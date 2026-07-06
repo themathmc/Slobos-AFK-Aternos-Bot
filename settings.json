@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "TheMathMC.aternos.me",
+    "port": 58998,
     "version": "",
     "try-creative": false
   },
