@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "TheMathMC.aternos.me",
+    "ip": "TheMathMC.aternos.me:58998",
     "port": 58998,
     "version": "",
     "try-creative": false
